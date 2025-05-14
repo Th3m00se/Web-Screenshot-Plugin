@@ -3,7 +3,7 @@ description = [[
 Gets a screenshot from the host using Selenium
 ]]
 
-author = "Your Name"
+author = "Th3m00se"
 license = "GPLv2"
 categories = {"discovery", "safe"}
 
